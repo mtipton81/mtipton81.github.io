@@ -5,7 +5,7 @@ $('.button').click(function(){
 $('#button-two').click(function()}
    $('img').fadein(1000);
          
-} 
+}); 
   
 });
 
