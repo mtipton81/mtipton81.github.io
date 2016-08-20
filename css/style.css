@@ -22,10 +22,35 @@ nav {
   padding:5px;
 }
 
-
-{
   section {
     width:330px;
     float:left;
     padding:15px;
   }
+  
+  Footer {
+    background:blue;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    
+    
+  }
+  
+  
+a {
+  color: green;
+  text-decoration: none;
+  
+}
+
+a:houver{
+  color: yellow;
+}
+
+img{
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
+}
