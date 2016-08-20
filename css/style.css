@@ -42,7 +42,7 @@ nav {
     background: green;
     color: blue;
     }
-    button:hover, #button-two{
+    button:hover, #button-two:hover{
       color:yellow;
     }
   
