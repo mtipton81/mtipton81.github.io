@@ -42,6 +42,9 @@ nav {
     background: green;
     color: blue;
     }
+    Button:hover{
+      color:yellow;
+    }
   
   
   Footer {
