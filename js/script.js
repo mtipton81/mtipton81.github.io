@@ -1,5 +1,5 @@
 $(document).ready(function(){
-  $('img").fadeOut(1000);       
+  $('img').fadeOut(1000);       
 
 });
 
