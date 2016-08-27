@@ -14,6 +14,7 @@ html {
     padding-top: 150px;
     text-align: center;
     background: url('https://static.pexels.com/photos/119404/pexels-photo-119404-large.jpeg');
+    background-size: cover;
 }
 #Ninja{
     height:100px;
