@@ -34,6 +34,12 @@ html {
     text-align: center;
     background: #fff;
 }
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: auto%;
+      margin: auto;
+      height: 400px;
+  }
 
 .services-section{
     height: 100%;
@@ -46,8 +52,4 @@ html {
     background-color: #ccc;
 }
 
-.carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
-      width: 70%;
-      margin: auto;
-  }a
+
