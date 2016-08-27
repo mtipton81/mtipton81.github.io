@@ -34,6 +34,12 @@ html {
     text-align: center;
     background: #fff;
 }
+#contact {
+    height: 100px;
+    width: 100px;
+    
+}
+
 .carousel-inner > .item > img,
   .carousel-inner > .item > a > img,
    .carousel-inner > .item >iframe  {    
