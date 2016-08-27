@@ -35,11 +35,14 @@ html {
     background: #fff;
 }
 .carousel-inner > .item > img,
-  .carousel-inner > .item > a > img {
+  .carousel-inner > .item > a > img,
+   .carousel-inner > .item >iframe  {    
       width: auto%;
       margin: auto;
       height: 400px;
   }
+  
+  
 
 .services-section{
     height: 100%;
